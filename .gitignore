@@ -1,0 +1,5 @@
+# Downloaded pretrained models
+/models/
+
+# Locally trained models, tokenizers and checkpoints
+/bert_authorship/
